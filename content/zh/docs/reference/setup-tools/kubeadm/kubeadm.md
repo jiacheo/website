@@ -17,18 +17,18 @@ kubeadm 通过执行必要的操作来启动和运行一个最小可用的集群
 ## 接下可以做什么
 
 <!-- * [kubeadm init](/docs/reference/setup-tools/kubeadm/kubeadm-init) to bootstrap a Kubernetes master node -->
-* [kubeadm init](/docs/reference/setup-tools/kubeadm/kubeadm-init) 启动一个 Kubernetes 主节点
+* [kubeadm init](/zh/docs/reference/setup-tools/kubeadm/kubeadm-init) 启动一个 Kubernetes 主节点
 <!-- * [kubeadm join](/docs/reference/setup-tools/kubeadm/kubeadm-join) to bootstrap a Kubernetes worker node and join it to the cluster -->
-* [kubeadm join](/docs/reference/setup-tools/kubeadm/kubeadm-join) 启动一个 Kubernetes 工作节点并且将其加入到集群
+* [kubeadm join](/zh/docs/reference/setup-tools/kubeadm/kubeadm-join) 启动一个 Kubernetes 工作节点并且将其加入到集群
 <!-- * [kubeadm upgrade](/docs/reference/setup-tools/kubeadm/kubeadm-upgrade) to upgrade a Kubernetes cluster to a newer version -->
-* [kubeadm upgrade](/docs/reference/setup-tools/kubeadm/kubeadm-upgrade) 更新一个 Kubernetes 集群到新版本
+* [kubeadm upgrade](/zh/docs/reference/setup-tools/kubeadm/kubeadm-upgrade) 更新一个 Kubernetes 集群到新版本
 <!-- * [kubeadm config](/docs/reference/setup-tools/kubeadm/kubeadm-config) if you initialized your cluster using kubeadm v1.7.x or lower, to configure your cluster for `kubeadm upgrade` -->
-* [kubeadm config](/docs/reference/setup-tools/kubeadm/kubeadm-config) 如果使用 v1.7.x 或者更低版本的 kubeadm 初始化集群，您需要对集群做一些配置以便使用 `kubeadm upgrade` 命令
+* [kubeadm config](/zh/docs/reference/setup-tools/kubeadm/kubeadm-config) 如果使用 v1.7.x 或者更低版本的 kubeadm 初始化集群，您需要对集群做一些配置以便使用 `kubeadm upgrade` 命令
 <!-- * [kubeadm token](/docs/reference/setup-tools/kubeadm/kubeadm-token) to manage tokens for `kubeadm join` -->
-* [kubeadm token](/docs/reference/setup-tools/kubeadm/kubeadm-token) 管理 `kubeadm join` 使用的令牌
+* [kubeadm token](/zh/docs/reference/setup-tools/kubeadm/kubeadm-token) 管理 `kubeadm join` 使用的令牌
 <!-- * [kubeadm reset](/docs/reference/setup-tools/kubeadm/kubeadm-reset) to revert any changes made to this host by `kubeadm init` or `kubeadm join` -->
-* [kubeadm reset](/docs/reference/setup-tools/kubeadm/kubeadm-reset) 还原 `kubeadm init` 或者 `kubeadm join` 对主机所做的任何更改
+* [kubeadm reset](/zh/docs/reference/setup-tools/kubeadm/kubeadm-reset) 还原 `kubeadm init` 或者 `kubeadm join` 对主机所做的任何更改
 <!-- * [kubeadm version](/docs/reference/setup-tools/kubeadm/kubeadm-version) to print the kubeadm version -->
-* [kubeadm version](/docs/reference/setup-tools/kubeadm/kubeadm-version) 打印 kubeadm 版本
+* [kubeadm version](/zh/docs/reference/setup-tools/kubeadm/kubeadm-version) 打印 kubeadm 版本
 <!-- * [kubeadm alpha](/docs/reference/setup-tools/kubeadm/kubeadm-alpha) to preview a set of features made available for gathering feedback from the community -->
-* [kubeadm alpha](/docs/reference/setup-tools/kubeadm/kubeadm-alpha) 预览一组可用的新功能以便从社区搜集反馈
+* [kubeadm alpha](/zh/docs/reference/setup-tools/kubeadm/kubeadm-alpha) 预览一组可用的新功能以便从社区搜集反馈
